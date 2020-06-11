@@ -12,8 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 ## This is a markdown file
-<<<<<<< HEAD
 ### I want to add this line.
+
+##Changes made
 =======
 
 >>>>>>> 17008a1eed4306c6a4f3045c44ae50268e439046
